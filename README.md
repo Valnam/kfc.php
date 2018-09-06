@@ -1,0 +1,2 @@
+# kfc.php
+Kfc
